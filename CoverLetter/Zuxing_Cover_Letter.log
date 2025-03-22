@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.13)  22 MAR 2025 22:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.13)  22 MAR 2025 23:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/wzx/Documents/Dev/SWE Resume Template/OriginCoverLetter/Zuxing_Cover_Letter"
-(/Users/wzx/Documents/Dev/SWE Resume Template/OriginCoverLetter/Zuxing_Cover_Letter.tex
+**"/Users/wzx/Documents/Dev/SWE Resume Template/CoverLetter/Zuxing_Cover_Letter"
+(/Users/wzx/Documents/Dev/SWE Resume Template/CoverLetter/Zuxing_Cover_Letter.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/letter.cls
@@ -207,10 +207,20 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 \c@mv@boldtabular=\count279
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 99.
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--119
+
+ []
+
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 106.
+(Font)              scaled to size 12.0pt on input line 121.
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 124.
+(Font)              scaled to size 12.0pt on input line 128.
 
 
 [1
@@ -222,15 +232,15 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3713 strings out of 473190
- 60423 string characters out of 5715800
+ 3715 strings out of 473190
+ 60461 string characters out of 5715800
  461950 words of memory out of 5000000
- 26939 multiletter control sequences out of 15000+600000
+ 26941 multiletter control sequences out of 15000+600000
  585928 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,785b,353s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,11n,65p,779b,353s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on Zuxing_Cover_Letter.pdf (1 page, 164228 bytes).
+Output written on Zuxing_Cover_Letter.pdf (1 page, 163811 bytes).
 PDF statistics:
  24 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream
