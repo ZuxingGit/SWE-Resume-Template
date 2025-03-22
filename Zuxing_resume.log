@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.13)  15 MAR 2025 10:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.13)  22 MAR 2025 15:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -281,8 +281,7 @@ File: OT1lato-TLF.fd 2019/06/24 Font definitions for OT1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/lato-TLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 58.
-
-No file Zuxing_resume.aux.
+ (./Zuxing_resume.aux (./custom-commands.aux))
 \openout1 = `Zuxing_resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
@@ -303,7 +302,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
 LaTeX Font Info:    ... okay on input line 58.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 58.
 LaTeX Font Info:    ... okay on input line 58.
-(/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count289
 \scratchdimen=\dimen160
@@ -318,6 +317,7 @@ LaTeX Font Info:    ... okay on input line 58.
 \everyMPtoPDFconversion=\toks29
 )
 Package hyperref Info: Link coloring OFF on input line 58.
+ (./Zuxing_resume.out) (./Zuxing_resume.out)
 \@outlinefile=\write3
 \openout3 = `Zuxing_resume.out'.
 
@@ -373,13 +373,13 @@ LaTeX Font Info:    Font shape `OT1/lato-TLF/m/it' will be
 LaTeX Font Info:    Font shape `OT1/lato-TLF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 7.
 LaTeX Font Info:    Font shape `OT1/lato-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 9.
+(Font)              scaled to size 6.0pt on input line 11.
 LaTeX Font Info:    Font shape `OT1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 9.
+(Font)              scaled to size 10.0pt on input line 11.
 ) (./src/experience.tex
 LaTeX Font Info:    Font shape `OT1/lato-TLF/m/sc' will be
 (Font)              scaled to size 10.95pt on input line 2.
-) (./src/projects.tex) (./src/skills.tex)
+) (./src/projects.tex) (./src/skills.tex
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -391,7 +391,14 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 
 
-{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lato/a_y72t7m.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lato/a_vc7epu.enc}] (./Zuxing_resume.aux (./custom-commands.aux))
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lato/a_y72t7m.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lato/a_vc7epu.enc}])
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 4.08003pt, for example:
+(fancyhdr)                \setlength{\footskip}{4.08003pt}.
+
+[2] (./Zuxing_resume.aux (./custom-commands.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -400,28 +407,22 @@ L3 programming layer <2025-01-18>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `Zuxing_resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Zuxing_resume.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  8178769A591DAE54593BE5DC5893BD68;390.
+Package rerunfilecheck Info: File `Zuxing_resume.out' has not changed.
+(rerunfilecheck)             Checksum: 249C345D69421622B1E7D31A83FAA979;337.
  ) 
 Here is how much of TeX's memory you used:
- 14658 strings out of 473190
- 256060 string characters out of 5715800
- 668725 words of memory out of 5000000
- 37707 multiletter control sequences out of 15000+600000
+ 14675 strings out of 473190
+ 256338 string characters out of 5715800
+ 675026 words of memory out of 5000000
+ 37715 multiletter control sequences out of 15000+600000
  600332 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,349b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,349b,626s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on Zuxing_resume.pdf (1 page, 113368 bytes).
+Output written on Zuxing_resume.pdf (2 pages, 118235 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 82 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
